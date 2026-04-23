@@ -1,5 +1,5 @@
 
-🚀 Mars-lander Game | Squad Leader Thisun + Cadet Dulnath
+🚀# Mars-lander Game | Squad Leader Thisun + Cadet Dulnath
 import time
 
 print("🚀 MARS LANDING SIMULATOR ACTIVATED 🚀")
